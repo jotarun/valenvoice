@@ -1,0 +1,47 @@
+.living
+{
+color: #DCC57D;
+}
+.heart
+{
+color: #ED8084;
+}
+.beauty
+{
+color: #93CCC3;
+}
+.extra-bottom-padding{
+margin-bottom: 1rem;
+}
+.abstract-text
+{
+color:#666;
+text-align: justify
+}
+.form-search
+{
+display: block;
+border:  none;
+border-bottom:  1px #000 solid;
+width: 100%;
+background: url('../images/icon-search.svg') no-repeat right;
+background-size: auto 100%;
+color: #CCC;
+}
+.svg-navbar
+{
+margin-top: 1rem;
+}
+
+@media (min-width: 576px){
+html
+{
+font-size:12px;
+}
+}
+@media (min-width: 768px) {
+html
+{
+font-size:16px;
+}
+}
